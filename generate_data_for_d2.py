@@ -8,7 +8,7 @@ import random
 from datetime import datetime, timedelta
 from pathlib import Path
 
-BASE_DIR = Path(r"C:\Users\kikib\OneDrive\Documenten\COURSES\INF201-AdvancedProgramming\inf201_deliverables\Deliverable 2\d2_data")
+BASE_DIR = Path(__file__).resolve().parent / "data" # create data/ folder in same directory as this script
 STORES = ["library_cafe", "science_building", "student_union"]
 REGISTERS = ["POS_01", "POS_02", "POS_03"]
 CURRENCIES = ["EUR", "NOK", "USD"]
