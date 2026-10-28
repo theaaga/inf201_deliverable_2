@@ -1,0 +1,22 @@
+* 437c226 - Thea Gathe, 3 minutes ago : Do task 5, add correct data folder, requirements, and generate output files
+* 94f35a6 - Thea Gathe, 48 minutes ago : Add task 1-4 code to joint notebook
+*   c7ca6cc - theaaga, 56 minutes ago : Merge pull request #3 from theaaga/finish_task3
+|\  
+| * 29b2f8a - kikibeumer, 27 hours ago : Fixed task 1 and finished task 3
+| * fe67745 - kikibeumer, 3 days ago : Started Task 3
+| * 4868202 - kikibeumer, 3 days ago : Finished Task1
+* |   652281f - theaaga, 14 hours ago : Merge pull request #2 from theaaga/task4
+|\ \  
+| * | 6b4befc - Thea Gathe, 14 hours ago : Do task 4
+|/ /  
+* |   b21eb63 - theaaga, 3 days ago : Merge pull request #1 from theaaga/task2
+|\ \  
+| * | f9ed21c - Thea Gathe, 3 days ago : Finish task 2
+|/ /  
+* / a0ba002 - Thea Gathe, 3 days ago : Do part 1 of task 2
+|/  
+* 6481a84 - Thea Gathe, 3 days ago : Create files for each task
+* a35ead2 - Thea Gathe, 3 days ago : Update requirements, fix small issue in generate_data_for_d2
+* f48e5ac - Thea Gathe, 3 days ago : Move data file to folder
+* b2d766d - theaaga, 3 days ago : Add files via upload
+* 0f08bdd - theaaga, 3 days ago : Initial commit
