@@ -12,7 +12,9 @@ jupyter_client @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-b
 jupyter_core @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_jupyter_core_1760643864/work
 matplotlib-inline @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-inline_1778264321245/work
 nest-asyncio2 @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_nest-asyncio2_1790240046/work
+numpy==2.5.4
 packaging @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_packaging_1785888127/work
+pandas==3.1.0
 parso @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_parso_1777722955/work
 pexpect @ file:///home/conda/feedstock_root/build_artifacts/pexpect_1733301927746/work
 platformdirs @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_platformdirs_1792444931/work
@@ -32,5 +34,3 @@ typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/bld/rattle
 tzdata @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_python-tzdata_1791025923/work
 wcwidth @ file:///Users/runner/miniforge3/conda-bld/bld/rattler-build_wcwidth_1792880498/work
 wheel==0.48.0
-charset_normalizer
-regex
